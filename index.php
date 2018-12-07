@@ -1,3 +1,3 @@
 <?php
-echo "ola <strong> mundo12345 </strong>";
+echo "ola <strong> word12345 </strong>";
 ?>
